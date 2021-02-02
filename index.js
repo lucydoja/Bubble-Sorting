@@ -3,7 +3,7 @@ window.onload = function () {
 //Array de iconos y numeros
 //  var nombres = ["rombo", "espada", "trebol", "corazon"]
     var iconos = ["\u2666", "\u2660", "\u2663", "\u2665"];
-    var numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K"];
+    var numeros = ["A", 2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K"];
 
 
 // Ubicacion donde voy a poner mis cartas cuando se generen y botones
